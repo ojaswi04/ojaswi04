@@ -129,6 +129,7 @@ goal:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaswi04&theme=github-compact&bg_color=0D1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true" />
 </p>
+
 ---
 
 # > Connect With Me
