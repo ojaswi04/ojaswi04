@@ -13,7 +13,7 @@
 
 ---
 
-# > whoami
+# > who am I?
 
 ```bash
 Name        : Ojaswi Gondalia
