@@ -121,21 +121,19 @@ goal:
 
 # > GitHub Analytics
 
+# > GitHub Analytics
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ojaswi04&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswi04&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojaswi04&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswi04&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi04&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi04&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaswi04&theme=github-compact&bg_color=0D1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ojaswi04&theme=matrix&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaswi04&theme=github-compact&bg_color=0D1117&color=00FF88&line=00FF88&point=ffffff&hide_border=true" />
 </p>
 
 ---
