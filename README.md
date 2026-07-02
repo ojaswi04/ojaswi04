@@ -98,7 +98,7 @@ goal:
 |---------|-------------|
 | 🛰️ ISRO Cloud Removal | Generative AI-based cloud removal for LISS-IV satellite imagery |
 | 🏥 Fibroid Segmentation | nnU-Net + MONAI based medical image segmentation |
-| ❤️ ECG Arrhythmia Detection | Deep learning for ECG signal analysis |
+| 🧠 Epilepsy Detection | AI-based EEG signal analysis for epileptic seizure detection |
 | 🫁 Atelectasis Detection | Chest X-ray disease classification using CNNs |
 | 👗 AI Fashion Recommendation | Recommendation engine with virtual try-on |
 | 🤖 WhatsApp AI Automation | LLM-powered customer support automation |
