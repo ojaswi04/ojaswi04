@@ -156,15 +156,11 @@ goal:
 
 ---
 
-## 🐍 Snake Animation (Optional)
+# > Contribution Graph
 
-Create a GitHub Action and use:
-
-```text
-![](https://raw.githubusercontent.com/ojaswi04/ojaswi04/output/github-contribution-grid-snake.svg)
-```
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ojaswi04/ojaswi04/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Walk"/>
+</p>
 
 <p align="center">
 <i>"The best way to predict the future is to invent it."</i>
