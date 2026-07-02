@@ -119,7 +119,6 @@ goal:
 
 ---
 
-# > GitHub Analytics
 
 # > GitHub Analytics
 
