@@ -123,7 +123,7 @@ goal:
 # > GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi04&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ojaswi04&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
